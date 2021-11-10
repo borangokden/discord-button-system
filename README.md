@@ -4,6 +4,10 @@ Discord sunucularınızda kullanmanız için kodlanmış bir " Button System ( B
 # Nasıl Kullanılır?
 Öncelikle ayarlar.json kısmını doldurursanız bot çalışmaya başlayacaktır.
 
+# Glitch'de Kullanılır mı?
+Tabii ki, package.json kısmını glitch'e uygun olarak düzenlerseniz neden olmasın :)
+
+
 # Destek/İletişim
 Discord: https://discord.gg/2wY8PP3Gn3 
 Discord Nick: Matthe#0001

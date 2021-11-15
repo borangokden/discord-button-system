@@ -113,7 +113,7 @@ client.on("error", e => {
 
 client.on("message", (message) => {
 
-    if (message.content !== "KANKA BURAYA SADECE 1 KERELİK BİRŞEY YAZ YOKSA HERKES KULLANABİLİR! ÖRNEK !buton KULLANDIKTAN SONRA SALLAMASYON BİSEYLER YAZ ÖRNEK sfklsdlfksşlkfd" || message.author.bot) return;
+        if (message.content === ".buton" && message.author.id === ayarlar.sahip) {
   
   let EtkinlikKatılımcısı = new matthe.MessageButton()
     .setStyle('red') 

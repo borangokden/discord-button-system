@@ -1,4 +1,4 @@
-# Matthe-Button-System 
+# BoranGkdn-Button-System 
 Discord sunucularınızda kullanmanız için kodlanmış bir " Button System ( Buton'a Bas Rol Al! ) " projesi.
 
 # Nasıl Kullanılır?
@@ -10,10 +10,10 @@ Tabii ki, package.json kısmını glitch'e uygun olarak düzenlerseniz neden olm
 
 # Destek/İletişim
 Discord: https://discord.gg/2wY8PP3Gn3 
-Discord Nick: Matthe#0001
+Discord Nick: BoranGkdn#0001
 
-YouTube: https://youtube.com/Matthecim
-YouTube Nick: Matthe
+YouTube: https://youtube.com/BoranGkdn
+YouTube Nick: BoranGkdn
 
 Instagram: https://www.instagram.com/borangkdn/
 Instagram Nick: borangkdn

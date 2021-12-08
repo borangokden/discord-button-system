@@ -1,8 +1,8 @@
 {
-  "name": "matthe-button-system",
+  "name": "borangkdn-button-system",
   "version": "1.0.0",
   "description": "",
-  "main": "matthe.js",
+  "main": "borangkdn.js",
   "dependencies": {
     "discord-buttons": "^2.4.1",
     "discord.js": "^12.5.3"
